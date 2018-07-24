@@ -1,4 +1,4 @@
-# DIY-accounting-app
+# My DIY accounting app
 
 I produced this code (PHP) 12 years ago, it served as an accounting tool for my one-man business. 
 Basicly the app. allowed me creating sales invoices, add new clients to the database, consult goods in stock, store purchase invoices, calculate quarterly VAT balance, extract yearly VAT listing, book cash receipts and even send private messages to my assistent.
