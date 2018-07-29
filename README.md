@@ -11,6 +11,6 @@ Basicly the app allowed me to:
 - extract yearly VAT listing
 - send private messages to my assistent
 
-This code is nothing to be very proud of, I had no intent to do it according to best practices. It was just top-down programming, aslmost no use of modules, split into files.
+This code is nothing to be proud of, I had no intent to do it according to best practices. It was just top-down programming, aslmost no use of modules, split into files.
 
 Disclaimer: this code is old, md5 hashes are no longer secure today.
