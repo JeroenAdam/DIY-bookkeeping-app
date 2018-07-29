@@ -1,6 +1,6 @@
 <?php
 $DBHost = "localhost";
 $DBUser = "root";
-$DBPass = "jdeerv13";
+$DBPass = "xxxxxxxx";
 $DBName= "budgetcomputers";
 ?>
