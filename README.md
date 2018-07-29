@@ -1,6 +1,6 @@
 # My DIY accounting app
 
-I produced this code (PHP) 12 years ago, it served as an accounting tool for my small computer business. 
+I produced this code (PHP) 13 years ago, it served as an accounting tool for my small computer business. 
 Basicly the app allowed me to:
 - create sales invoices, add new clients to the database
 - create price offers, print price lists
