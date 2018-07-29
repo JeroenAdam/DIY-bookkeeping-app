@@ -3,7 +3,7 @@
 I produced this code (PHP) 13 years ago, it served as an accounting tool for my small computer business. 
 Basicly the app allowed me to:
 - create sales invoices, input new clients
-- create price offers, input/consult price lists
+- create price offers, update/consult price lists
 - book cash receipts, process incoming payments
 - store purchase invoices
 - store cost invoices
