@@ -4,7 +4,6 @@ I produced this code (PHP) 13 years ago, it served as an accounting tool for my 
 Basicly the app allowed me to:
 - create sales invoices, add new clients to the database
 - create price offers, consult/print price lists
-- consult goods in stock
 - book cash receipts, proccess incoming payments
 - store purchase invoices
 - store cost invoices
