@@ -1,0 +1,43 @@
+a:link {color: #888888;     /* unvisited link */
+	text-decoration:none;
+	font-family: Arial;
+	font-size: 15px;
+       }
+
+a:visited {color: #888888;  /* visited link */
+	text-decoration:none;
+	font-family: Arial;
+	font-size: 15px;
+       }
+
+a:hover {color: #000000;   /* mouse over link */
+	font-family: Arial;
+	font-size: 15px;
+	} 
+
+
+.topmenucol{	
+	background-color: #FFFFFF;
+	border-top-width: 2px;
+	border-left-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-color: black;
+	border-style: solid;
+	height: 24px;
+	text-align: center;
+	font-family: Arial;
+	font-size: 15px;
+	color: black;
+	vertical-align: middle;
+}
+
+.klantenfiche{	
+	text-align: center;
+	font-family: Arial;
+	font-size: 15px;
+	color: black;
+}
+
+textarea { background-image: url(../images/textarea.gif); 
+      background-attachment: fixed; }
