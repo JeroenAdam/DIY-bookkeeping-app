@@ -9,7 +9,7 @@ Basicly the app allowed me to:
 - store cost invoices
 - calculate quarterly VAT balance
 - extract yearly VAT listing
-- send private messages to my assistent
+- read/send private messages from/to my assistent
 
 This code is nothing to be proud of, I had no intent to do it according to best practices. It was just top-down programming, almost no use of functions, split into files.
 
