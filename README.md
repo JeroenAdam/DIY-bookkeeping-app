@@ -2,8 +2,8 @@
 
 I produced this code (PHP) 13 years ago, it served as an accounting tool for my small computer business. 
 Basically the app allowed me to:
-- create sales invoices, input new clients
-- create price offers, update/consult price lists
+- create sales invoices, manage client records
+- create price offers, manage price lists
 - book cash receipts, process incoming payments
 - store purchase invoices
 - store cost invoices
