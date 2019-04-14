@@ -1,6 +1,6 @@
 # My DIY accounting app
 
-I produced this code (PHP) 13 years ago, it served as an accounting tool for my small computer business. 
+I produced this code (PHP) 14 years ago, it served as an accounting tool for my small computer business. 
 Basically the app allowed me to:
 - create sales invoices, manage client records
 - create price offers, manage price lists
@@ -11,6 +11,6 @@ Basically the app allowed me to:
 - extract yearly VAT listing
 - read/send private messages from/to my assistent
 
-This code is nothing to be proud of, I had no intent to do it according to [OOP](https://www.guru99.com/object-oriented-programming.html) practices. It was just procedural programming, split into files.
+This code is nothing to be proud of, I had no intent to do it according to [OOP](https://www.guru99.com/object-oriented-programming.html) principles. It was just procedural programming, split into files.
 
 Disclaimer: this code is old, md5 hashes are no longer secure today.
