@@ -1,4 +1,4 @@
-# My DIY accounting app
+# My DIY bookkeeping app
 
 I produced this code (PHP) 14 years ago, it served as a bookkeeping tool for my small computer business. 
 Basically the app allowed me to:
